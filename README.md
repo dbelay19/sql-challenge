@@ -4,5 +4,7 @@ This challene was given to help us apply what we learned in calss about SQL data
 
 # Example of the ERD diagram and Query
 
-image.png
+![image](https://user-images.githubusercontent.com/117956888/219502118-d37bf32d-dcb9-4c2a-83b3-149812627ab7.png)
+
+
 
