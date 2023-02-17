@@ -11,7 +11,7 @@ FROM employees
 LEFT JOIN salaries
 ON employees.emp_no = salaries.emp_no
 ORDER BY emp_no
-
+LIMIT 10;
 
 --2. List the first name, last name, and hire date for the employees who were hired in 1986.
 
