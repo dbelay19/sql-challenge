@@ -25,6 +25,6 @@ This challene was given to help us apply what we learned in calss about SQL data
 
 # Exmample of bar graph made in PGgAdmin (SQL DB) salary by emploeeys las name
 
-http://localhost:8889/view/Employees%20salray%20by%20last%20name.png
+![image](https://user-images.githubusercontent.com/117956888/219882571-5f625a96-e5c6-444c-a9ab-185ab28edad1.png)
 
 
