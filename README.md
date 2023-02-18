@@ -23,7 +23,7 @@ This challene was given to help us apply what we learned in calss about SQL data
 
 ![image](https://user-images.githubusercontent.com/117956888/219503956-f46b1b16-94e5-4df6-9acd-0af260bd7878.png)
 
-# Exmample of bar graph made in PGgAdmin (SQL DB) salary by emploeeys las name
+# Exmample of bar graph made in PGgAdmin (SQL DB) salary by employees las name
 
 ![image](https://user-images.githubusercontent.com/117956888/219882571-5f625a96-e5c6-444c-a9ab-185ab28edad1.png)
 
